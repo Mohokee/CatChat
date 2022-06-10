@@ -12,17 +12,17 @@
             android:title="Sent Items" />
     </group>
 
-    <item android:title="Support">
-        <menu>
-            <group android:checkableBehavior="single">
+        <item android:title="Support">
+            <menu>
+                <group android:checkableBehavior="single">
                 <item
-                    android:id="@+id/helpFrag"
-                    android:icon="@android:drawable/ic_menu_help"
-                    android:title="Help"
-                    app:showAsAction="always"/>
-            </group>
-        </menu>
-    </item>
+                android:id="@+id/helpFrag"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="Help"
+                app:showAsAction="always"/>
+                </group>
+            </menu>
+        </item>
 
 
 
